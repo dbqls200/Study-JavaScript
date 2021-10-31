@@ -1,4 +1,4 @@
-## Do it! - 웹 프로그래밍을 위한 JavaScript 기본 편
+## [ Do it! - 웹 프로그래밍을 위한 JavaScript 기본 편 ]
 
 ### 🐾 무난하게 20일 코스
 
